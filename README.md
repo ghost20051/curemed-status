@@ -1,0 +1,1 @@
+# curemed-status
